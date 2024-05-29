@@ -1,0 +1,17 @@
+{
+  "name": "sendevent-fromeventhubs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send-events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NOSK",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/event-hubs": "^5.11.3",
+    "dotenv": "^16.4.5",
+    "mssql": "^10.0.2",
+    "sequelize": "^6.37.1"
+  }
+}
